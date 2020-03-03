@@ -14,5 +14,5 @@
 //= require turbolinks
 //=require jquery3
 //=require popper
-//=require bootstrap-spocker=ts
+//=require bootstrap-sprockets
 //= require_tree .
